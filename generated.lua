@@ -14,7 +14,7 @@ local link = function(target, group)
 end
 
 local Color13 = "#f442" 
-local Color7 = "#1c51ff" 
+local Color7 = "#ff2020" 
 local Color2 = "#ff669c" 
 local Color1 = "#ddd3cc" 
 local Color12 = "#4f42" 
