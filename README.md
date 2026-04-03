@@ -39,7 +39,7 @@ The best high contrast theme for neovim, mostly based in the [VS Code version](h
 
   ```lua
   local plugins = {
-      {"iagorrr/noctishc.nvim"}
+      {"Voodoo51/noctis-high-contrast.nvim"}
   }
 
   local opts = {}
