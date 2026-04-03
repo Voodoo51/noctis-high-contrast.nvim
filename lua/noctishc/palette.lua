@@ -44,8 +44,8 @@ local colors = {
 	ui_purple = "#B180D7",
 	-- noctis high contrast
 
-	bg = "#000000",
-	alt_bg = "#0c0c0c",
+	bg = "#0c0c0c",--"#000000",
+	alt_bg = "#3d3d3d",--"#0c0c0c",
 	menu_bg = "#000000",
 	bg_sel = "#444455",
 
@@ -63,7 +63,7 @@ local colors = {
 	darkerDiscreetGray = "#111111",
 	sweetPink = "#9cff3f",
 	pastelYellow = "#ffb966",
-	isThisBege = "#13be5a", --type
+	isThisBege = "#fbff25", --type
 	seaBlue = "#66ffbf",
 	errorRed = "#ff2020",
 	boringYellow = "#4f4200",
