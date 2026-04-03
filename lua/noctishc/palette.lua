@@ -56,7 +56,7 @@ local colors = {
 
 	strongPurple = "#a000ff",
 	seriousYellow = "#e6ac00",
-	happyBlue = "#00a0ff",
+	happyBlue = #6e20ff --this is function ig?? "#00a0ff",
 	okBlue = "#6e20ff", --function
 	darkerOkBlue = "#00647c",
 	discreetGray = "#888888",
