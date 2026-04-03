@@ -4,7 +4,7 @@ local hl = vim.api.nvim_set_hl
 local theme = {}
 
 local link = function(target, group)
-	vim.api.nvim_command("highlight! link " .. target .. " " .. group)
+	vim.api.nvim_command("highlight link " .. target .. " " .. group)
 end
 
 theme.set_highlights = function()
