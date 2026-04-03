@@ -1,6 +1,6 @@
 local colors = {
 	line = "#3e3e3e",
-	dark_gray = "#a0a0a0",
+	dark_gray = "#80b69d",
 	gray = "#808080",
 	context = "#606060",
 	light_gray = "#cccccc",
@@ -61,7 +61,7 @@ local colors = {
 	darkerOkBlue = "#00647c",
 	discreetGray = "#888888",
 	darkerDiscreetGray = "#353535", --parameter info ig?? "#111111"
-	sweetPink = "#9cff3f",
+	sweetPink = "#0bff8d",
 	pastelYellow = "#ffb966",
 	isThisBege = "#fcff4c", --type
 	seaBlue = "#66ffbf",
