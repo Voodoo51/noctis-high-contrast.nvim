@@ -1,6 +1,6 @@
 local colors = {
 	line = "#3e3e3e",
-	dark_gray = "#636363",
+	dark_gray = "#a0a0a0",
 	gray = "#808080",
 	context = "#606060",
 	light_gray = "#cccccc",
