@@ -45,7 +45,7 @@ local colors = {
 	-- noctis high contrast
 
 	bg = "#0c0c0c",--"#000000",
-	alt_bg = "#494949",--"#0c0c0c",
+	alt_bg = "#131313",--"#0c0c0c",
 	menu_bg = "#000000",
 	bg_sel = "#444455",
 
