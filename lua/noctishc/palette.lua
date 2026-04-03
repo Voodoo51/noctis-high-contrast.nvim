@@ -45,7 +45,7 @@ local colors = {
 	-- noctis high contrast
 
 	bg = "#0c0c0c",--"#000000",
-	alt_bg = "#3d3d3d",--"#0c0c0c",
+	alt_bg = "#131313",--"#0c0c0c",
 	menu_bg = "#000000",
 	bg_sel = "#444455",
 
@@ -57,13 +57,13 @@ local colors = {
 	strongPurple = "#c663ff",
 	seriousYellow = "#e6ac00",
 	happyBlue = "#00ff6a",
-	okBlue = "#fcfcfc", --function
+	okBlue = "#ebebeb", --function
 	darkerOkBlue = "#00647c",
 	discreetGray = "#888888",
-	darkerDiscreetGray = "#111111",
+	darkerDiscreetGray = "#353535", --parameter info ig?? "#111111"
 	sweetPink = "#9cff3f",
 	pastelYellow = "#ffb966",
-	isThisBege = "#fbff25", --type
+	isThisBege = "#fcff4c", --type
 	seaBlue = "#66ffbf",
 	errorRed = "#ff2020",
 	boringYellow = "#4f4200",
